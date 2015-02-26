@@ -42,12 +42,14 @@
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h2 class="panel-title">
-                                Recent Activity
+                                National Park Visits
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <p>After unexpected lengthy downtime...under construction...</p>
-                            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                            <div class="fluid-wrapper index-map">
+                                <iframe src="https://www.google.com/maps/d/embed?mid=zrDmp80aDobM.k4qqjBrgs71A" width="80" height="60"></iframe>
+                            </div>
+                            <p><a class="btn btn-default" href="http://www.russellhewett.com/bio/parks.html" role="button">Embiggen &raquo;</a></p>
                         </div>
                     </div>
                 </div>
