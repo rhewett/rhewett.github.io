@@ -46,7 +46,7 @@
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <div class="fluid-wrapper index-map">
+                            <div class="fluid-wrapper panel-content-wrap">
                                 <iframe src="https://www.google.com/maps/d/embed?mid=zrDmp80aDobM.k4qqjBrgs71A" width="80" height="60"></iframe>
                             </div>
                             <p><a class="btn btn-default" href="http://www.russellhewett.com/bio/parks.html" role="button">Embiggen &raquo;</a></p>
@@ -74,10 +74,12 @@
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                            <div class="panel-content-wrap">
+                                <a href="http://photos.russellhewett.com/Galleries/California/i-qhQx2zX/A">
+                                <img class="panel-photo" src="http://photos.russellhewett.com/Galleries/California/i-qhQx2zX/1/280x165!/20141122_104941_s100_2-280x165!.jpg"></img>
+                                </a>
+                            </div>
+                            <p><a class="btn btn-default" href="http://photos.russellhewett.com/Galleries/California/" role="button">Gallery &raquo;</a></p>
                         </div>
                     </div>
                 </div>
