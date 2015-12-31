@@ -61,7 +61,7 @@
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <p>"Optimized finite difference coefficients for the Helmholtz equation."<i>SEG Expanded Abstracts 2015</i></p>
+                            <p>"Optimized finite difference coefficients for the Helmholtz equation."<br><i>SEG Expanded Abstracts 2015</i></p>
                             <p><a class="btn btn-default" href="http://www.russellhewett.com/research/publications.html" role="button">View details &raquo;</a></p>
                         </div>
                     </div>
