@@ -19,11 +19,11 @@
                             <h2 class="idx-subtitle">Research Interests</h2>
                             <p>
                                 <br>
-                                <strong><big>·</big></strong> Inverse problems in imaging <br>
+                                <strong><big>·</big></strong>Computational science and engineering in geoscience<br>
                                 <br>
-                                <strong><big>·</big></strong>Scientific computing for physical sciences <br>
+                                <strong><big>·</big></strong>Inverse problems in imaging<br>
                                 <br>
-                                <strong><big>·</big></strong>Numerical methods in photography and vision
+                                <strong><big>·</big></strong>Numerical methods in photography and computer vision
                             </p>
                         </div>
                         <div id="jumbo-right" class="col-md-6">
@@ -61,8 +61,8 @@
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+                            <p>"Optimized finite difference coefficients for the Helmholtz equation."<i>SEG Expanded Abstracts 2015</i></p>
+                            <p><a class="btn btn-default" href="http://www.russellhewett.com/research/publications.html" role="button">View details &raquo;</a></p>
                         </div>
                     </div>
                 </div>
