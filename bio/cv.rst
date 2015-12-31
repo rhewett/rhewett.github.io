@@ -30,6 +30,16 @@ Education
    -  Advisors: Dr. Calvin Ribbens (Virginia Tech) and Dr. Peter T.
       Gallagher (Trinity College Dublin).
 
+Academic and Industrial Research Positions
+------------------------------------------
+
+-  Numerical Methods Research Scientist, TOTAL E&P Research & Technology USA, Llc.
+
+-  Postdoctoral Associate, Imaging and Computing Group, Department of Mathematics, Massachusetts Institute of Technology, September 2011--April 2014.
+
+-  Postdoctoral Associate, Earth Resources Laboratory, Massachusetts Institute of Technology, September 2011--April 2014.
+
+
 Fellowships and Grants
 ----------------------
 
@@ -37,8 +47,8 @@ Fellowships and Grants
    Scale Dynamic Reconstruction of Coronal Density and Temperature from
    Multi-spacecraft Measurements*, 2008--2011.
 
-Research Experience
--------------------
+Other Research Experience
+-------------------------
 
 -  **Research Assistant, University of Illinois at Urbana-Champaign**
 
@@ -108,7 +118,9 @@ Teaching Experience
 
 Seminars and Workshops
 ----------------------
-
+-  Instructor for Computational Exercises,
+   Introduction to the Mathematics of Seismic Imaging,
+   Mathematical Sciences Research Institute (MSRI), July-August 2013.
 -  Co-presenter, Python for Scientific and Engineering Workshop,
    University of Illinois SIAM Student Chapter and Engineering Graduate
    Student Advisory Council, April, 2011
@@ -118,6 +130,9 @@ Seminars and Workshops
 Peer Reviewed Publications
 --------------------------
 
+-  The SunPy Community, et. al., "SunPy--Python for solar physics,"
+   *Computational Science and Discovery*, Volume 8, Issue 1, January,
+   2015.
 -  **R. J. Hewett**, I. H. Jermyn, M. T. Heath, and F. Kamalabadi, "A
    Phase Field Method for Tomo-graphic Reconstruction from Limited
    Data," *Proceedings of the British Machine Vision Conference*,
@@ -143,6 +158,34 @@ Peer Reviewed Publications
    Properties of Evolving Active Regions," *Solar Physics*, 2010, Volume
    248, Issue 2, pp. 311--322.
 
+Conference Proceedings
+----------------------
+
+-  M. N'Diaye, **R. J. Hewett, A. Atle, H. Calandra,
+   "Optimized finite difference coefficients for the Helmholtz equation,"
+   *85th Annual Meeting, SEG, Expanded Abstracts*, October, 2015.
+
+-  L. Zepeda--N\'u\~nez, **R. J. Hewett, and L.~Demanet,
+   "Preconditioning the 2D Helmholtz equation with polarized traces,"
+   *84th Annual Meeting, SEG, Expanded Abstracts*, October, 2014.
+
+-  L. Zepeda--N\'u\~nez, **R. J. Hewett, M. Rao, and L.~Demanet,
+   "Time-stepping beyond CFL: a locally one-dimensional scheme for acoustic wave propagation,"
+   *83rd Annual Meeting, SEG, Expanded Abstracts*, September, 2013.
+
+-  M. Leinonen, **R. J. Hewett, X. Zhang, L. Ying, and L. Demanet,
+   "High-dimensional wave atoms and compression of seismic datasets,"
+   *83rd Annual Meeting, SEG, Expanded Abstracts*, September, 2013.
+
+-  S. Mumford, D. P\'erez-Su\'arez, S. Christe, F. Mayer, and **R. J. Hewett,
+   "SunPy: Python for Solar Physicists,"
+   *Proceedings of the 12th Python in Science Conference*, July, 2013.
+
+-  R. T. J. McAteer, P. T. Gallagher, J. Ireland, C. A. Young, **R. J.
+   Hewett**, and P. Conlon, "The Complex Sun: Turbulence and Complexity
+   of the Solar Atmosphere," *SOHO-17. 10 Years of SOHO and Beyond*,
+   2006.
+
 Book Chapters
 -------------
 
@@ -154,14 +197,6 @@ Book Chapters
    Messaging in the Workplace*, in ** *Handbook of Research on Virtual
    Workplaces and the New Nature of Business Practices*, Eds: Kirk
    St.Amant and Pavel Zemliansky, Hershey, PA, USA: IGI Global, 2008.
-
-Conference Proceedings
-----------------------
-
--  R. T. J. McAteer, P. T. Gallagher, J. Ireland, C. A. Young, **R. J.
-   Hewett**, and P. Conlon, "The Complex Sun: Turbulence and Complexity
-   of the Solar Atmosphere," *SOHO-17. 10 Years of SOHO and Beyond*,
-   2006.
 
 Presentations
 -------------
@@ -194,18 +229,6 @@ Presentations
    Continuous Wavelet Approach" American Astronomical Society: Solar
    Physics Division Annual Meeting, Durham, NH, June 2006.
 
-Service
--------
-
--  Councilmember, Graduate Academic Council, Department of Computer
-   Science, University of Illinois at Urbana-Champaign, 2009--2011.
--  Graduate Student Representative, Graduate Study Committee, Department
-   of Computer Science, University of Illinois at Urbana-Champaign,
-   2010--2011.
--  Graduate Student Application Reviewer, Fellowship, Assistantship, and
-   Admissions (FAA) Committee, Department of Computer Science,
-   University of Illinois at Urbana-Champaign, 2010.
-
 Honors and Awards
 -----------------
 
@@ -227,8 +250,4 @@ Professional Organizations
    2011--Present.
 -  Student Member, Society for Industrial and Applied Mathematics
    (SIAM), 2008--2011.
--  Member, IEEE, 2011--Present.
--  Student Member, IEEE, 2010--2011.
--  Member, ACM, 2011--Present.
--  Student Member, ACM, 2010--2011.
 

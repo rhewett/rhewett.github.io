@@ -34,8 +34,8 @@ M. N'Diaye, **R. J. Hewett**, A. Atle, and H .Calandra,
    equation below 3.5 points-per-wavelength (ppw).
 </div>
 
-Optimized finite difference coefficients for the Helmholtz equation
--------------------------------------------------------------------
+SunPy--Python for solar physics
+-------------------------------
 
 The SunPy Community, S. J. Mumford, S. Christe, D. Pérez-Suárez,  J. Ireland, A. Y. Shih, 
 A. R. Inglis, S. Liedtke, ** R. J. Hewett **, F. Mayer, K. Hughitt, N. Freij, 
