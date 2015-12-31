@@ -7,6 +7,101 @@
 .. description:
 -->
 
+2015
+====
+
+Optimized finite difference coefficients for the Helmholtz equation
+-------------------------------------------------------------------
+
+M. N'Diaye, **R. J. Hewett**, A. Atle, and H .Calandra,  
+*85th Annual Meeting, SEG, Expanded Abstracts*, October, 2015.  
+[link]
+[pdf]
+<a href="javascript:toggle('seg2015_text','seg2015_link');"id="seg2015_link">
+   [show abstract]
+</a>
+
+<div id="seg2015_text" style="display:none;">
+   Optimized finite difference (OFD) coefficients are often used to minimize
+   numerical dispersion and to improve accuracy in finite difference (FD)
+   solutions to partial differential equations (Lele (1992); Tam and Webb
+   (1993); Jo et al. (1996); Liu and Sen (2010); Štekl and Pratt (1998)). We
+   present a framework for deriving such coefficients which at once minimizes
+   numerical dispersion and preserves convergence at low frequency. We compute
+   optimal coefficients in each dimension and then assemble the optimal
+   multi-dimensional stencil for the computational grid. We demonstrate the
+   effectiveness of our OFD scheme by computing solutions to the Helmholtz
+   equation below 3.5 points-per-wavelength (ppw).
+</div>
+
+Optimized finite difference coefficients for the Helmholtz equation
+-------------------------------------------------------------------
+
+The SunPy Community, S. J. Mumford, S. Christe, D. Pérez-Suárez,  J. Ireland, A. Y. Shih, 
+A. R. Inglis, S. Liedtke, ** R. J. Hewett **, F. Mayer, K. Hughitt, N. Freij, 
+T. Meszaros, S. M. Bennett, M. Malocha, J Evans, A. Agrawal, A. J.  Leonard, T. P. Robitaille, 
+B. Mampaey, J. I. Campos-Rozo, M. S. Kirk,  
+*Computational Science and Discovery*, Volume 8, Issue 1, January, 2015.  
+[link]
+[pdf]
+<a href="javascript:toggle('csd2015_text','csd2015_link');"id="csd2015_link">
+   [show abstract]
+</a>
+
+<div id="csd2015_text" style="display:none;">
+   This paper presents SunPy (version 0.5), a community-developed Python
+   package for solar physics. Python, a free, cross-platform, general-purpose,
+   high-level programming language, has seen widespread adoption among the
+   scientific community, resulting in the availability of a large number of
+   software packages, from numerical computation (NumPy, SciPy) and machine
+   learning (scikit-learn) to visualization and plotting (matplotlib). SunPy
+   is a data-analysis environment specializing in providing the software
+   necessary to analyse solar and heliospheric data in Python. SunPy is
+   open-source software (BSD licence) and has an open and transparent
+   development workflow that anyone can contribute to. SunPy provides access
+   to solar data through integration with the Virtual Solar Observatory (VSO),
+   the Heliophysics Event Knowledgebase (HEK), and the HELiophysics Integrated
+   Observatory (HELIO) webservices. It currently supports image data from
+   major solar missions (e.g., SDO, SOHO, STEREO, and IRIS), time-series data
+   from missions such as GOES, SDO/EVE, and PROBA2/LYRA, and radio spectra
+   from e-Callisto and STEREO/SWAVES. We describe SunPy's functionality,
+   provide examples of solar data analysis in SunPy, and show how Python-based
+   solar data-analysis can leverage the many existing tools already available
+   in Python. We discuss the future goals of the project and encourage
+   interested users to become involved in the planning and development of
+   SunPy.
+</div>
+
+2014
+====
+
+Preconditioning the 2D Helmholtz equation with polarized traces
+---------------------------------------------------------------
+
+L. Zepeda-Núñez, **R. J. Hewett**, and L. Demanet,  
+*84th Annual Meeting, SEG, Expanded Abstracts*, October, 2014.  
+[link]
+[pdf]
+<a href="javascript:toggle('seg2014_text','seg2014_link');"id="seg2014_link">
+   [show abstract]
+</a>
+
+<div id="seg2014_text" style="display:none;">
+   We present a domain decomposition solver for the 2D Helmholtz equation,
+   with a special choice of integral transmission condition that involves
+   polarizing the waves into one-way components. This refinement of the
+   transmission condition is the key to combining local direct solves into an
+   efficient iterative scheme, which can then be deployed in a
+   high-performance computing environment. The method involves an expensive,
+   but embarrassingly parallel precomputation of local Green’s functions, and
+   a fast online computation of layer potentials in partitioned low-rank form.
+   The online part has sequential complexity that scales sublinearly with
+   respect to the number of volume unknowns, even in the high-frequency
+   regime. The favorable complexity scaling continues to hold in the context
+   of low-order finite difference schemes for standard community models such
+   as BP and Marmousi2, where convergence occurs in 5 to 10 GMRES iterations.
+</div>
+
 2013
 ====
 
@@ -281,7 +376,7 @@ Young, P. Kestener, **R. J. Hewett**, and K. Maguire,
 
 B. Hewett and **R. J. Hewett**,  
 in *Handbook of Research on Virtual Workplaces and the New Nature of Business
-Practices.* Eds: Kirk~St.~Amant and Pavel~Zemliansky. Hershey, PA, USA: IGI
+Practices.* Eds: Kirk St. Amant and Pavel Zemliansky. Hershey, PA, USA: IGI
 Global, 2008.  
 [link]
 [pdf]
