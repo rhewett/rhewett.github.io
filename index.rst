@@ -61,7 +61,7 @@
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <p>"Optimized finite difference coefficients for the Helmholtz equation."<br><i>SEG Expanded Abstracts 2015</i></p>
+                            <p>"Reduced Storage Nodal Discontinuous Galerkin Methods on Semi-structured Prismatic Meshes."<br><i>CAMWA</i></p>
                             <p><a class="btn btn-default" href="http://www.russellhewett.com/research/publications.html" role="button">View details &raquo;</a></p>
                         </div>
                     </div>
@@ -75,8 +75,8 @@
                         </div>
                         <div class="panel-body">
                             <div class="panel-content-wrap">
-                                <a href="http://photos.russellhewett.com/Galleries/California/i-qhQx2zX/A">
-                                <img class="panel-photo" src="http://photos.russellhewett.com/Galleries/California/i-qhQx2zX/1/280x165!/20141122_104941_s100_2-280x165!.jpg"></img>
+                                <a href="http://photos.russellhewett.com/Galleries/Florida/i-qhTX8Wz/A">
+                                <img class="panel-photo" src="https://photos.smugmug.com/Galleries/Florida/i-qhTX8Wz/0/400x175!/[Group%202]-DSC_2930_DSC_2933-4%20images-400x175!.jpg"></img>
                                 </a>
                             </div>
                             <p><a class="btn btn-default" href="http://photos.russellhewett.com/Galleries/California/" role="button">Gallery &raquo;</a></p>

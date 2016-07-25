@@ -33,7 +33,7 @@ Education
 Academic and Industrial Research Positions
 ------------------------------------------
 
--  Numerical Methods Research Scientist, TOTAL E&P Research & Technology USA, Llc.
+-  Research Scientist, Computational Science and Engineering Dept., TOTAL E&P Research & Technology USA, May 2014--Present.
 
 -  Postdoctoral Associate, Imaging and Computing Group, Department of Mathematics, Massachusetts Institute of Technology, September 2011--April 2014.
 
@@ -118,6 +118,15 @@ Teaching Experience
 
 Seminars and Workshops
 ----------------------
+-  Co-convenor, workshop, 
+   *Open-source Software in Applied Geosciences*, 
+   at 78th EAGE Conference & Exhibition 2016, Vienna, Austria, May, 2016.
+-  Co-organizer, minisymposium, 
+   *Advances in Software for Computational Geosciences*, 
+   at 2015 SIAM Conference on Mathematical & Computational Issues in the Geosciences, Palo Alto, CA, June, 2015.
+-  Co-organizer, minisymposium, 
+   *Discontinuous Galerkin Methods in Seismology*, 
+   at 2015 SIAM Conference on Mathematical & Computational Issues in the Geosciences, Palo Alto, CA, June, 2015.
 -  Instructor for Computational Exercises,
    Introduction to the Mathematics of Seismic Imaging,
    Mathematical Sciences Research Institute (MSRI), July-August 2013.
@@ -129,6 +138,15 @@ Seminars and Workshops
 
 Peer Reviewed Publications
 --------------------------
+
+-  J. Chan, **R. J. Hewett**, and T. Warburton,
+   "Weight Adjusted Discontinuous Galerkin Methods: Heterogeneous Media,"
+   *submitted to* the SIAM Journal on Scientific Computing.
+
+-  J. Chan, **R. J. Hewett**, Z. Wang, and T. Warburton,
+   "Reduced Storage Nodal Discontinuous Galerkin Methods on
+   Semi-structured Prismatic Meshes," *submitted to* Computers and 
+   Mathematics with Applications.
 
 -  The SunPy Community, et. al., "SunPy--Python for solar physics,"
    *Computational Science and Discovery*, Volume 8, Issue 1, January,
@@ -161,23 +179,23 @@ Peer Reviewed Publications
 Conference Proceedings
 ----------------------
 
--  M. N'Diaye, **R. J. Hewett, A. Atle, H. Calandra,
+-  M. N'Diaye, **R. J. Hewett**, A. Atle, H. Calandra,
    "Optimized finite difference coefficients for the Helmholtz equation,"
    *85th Annual Meeting, SEG, Expanded Abstracts*, October, 2015.
 
--  L. Zepeda--N\'u\~nez, **R. J. Hewett, and L.~Demanet,
+-  L. Zepeda--N\'u\~nez, **R. J. Hewett**, and L.~Demanet,
    "Preconditioning the 2D Helmholtz equation with polarized traces,"
    *84th Annual Meeting, SEG, Expanded Abstracts*, October, 2014.
 
--  L. Zepeda--N\'u\~nez, **R. J. Hewett, M. Rao, and L.~Demanet,
+-  L. Zepeda--N\'u\~nez, **R. J. Hewett**, M. Rao, and L.~Demanet,
    "Time-stepping beyond CFL: a locally one-dimensional scheme for acoustic wave propagation,"
    *83rd Annual Meeting, SEG, Expanded Abstracts*, September, 2013.
 
--  M. Leinonen, **R. J. Hewett, X. Zhang, L. Ying, and L. Demanet,
+-  M. Leinonen, **R. J. Hewett**, X. Zhang, L. Ying, and L. Demanet,
    "High-dimensional wave atoms and compression of seismic datasets,"
    *83rd Annual Meeting, SEG, Expanded Abstracts*, September, 2013.
 
--  S. Mumford, D. P\'erez-Su\'arez, S. Christe, F. Mayer, and **R. J. Hewett,
+-  S. Mumford, D. P\'erez-Su\'arez, S. Christe, F. Mayer, and **R. J. Hewett**,
    "SunPy: Python for Solar Physicists,"
    *Proceedings of the 12th Python in Science Conference*, July, 2013.
 
@@ -201,6 +219,12 @@ Book Chapters
 Presentations
 -------------
 
+-  Contributed Talk, "PySIT: Seismic Imaging Toolbox for Python,"
+   SIAM Conference on Mathematical and Computational Issues in
+   Geoscience 2015, Stanford University, Palo Alto, CA, June 2015.
+-  Contributed Talk, "A Polarized-Trace Solver for 2D Helmholtz and 
+   Frequency Domain Full-Waveform Inversion,"  Inverse Problems:
+   Theory and Applications}, Bristol, UK, August 2014.
 -  Contributed Talk, "Toward Tomographic Reconstruction of CMEs with a
    Phase Field Method," Solar Image Processing Workshop VI, Bozeman, MT,
    August 2012.
