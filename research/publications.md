@@ -13,8 +13,8 @@
 Weight Adjusted Discontinuous Galerkin Methods: Curvilinear Meshes
 ---------------------------------------------------------------------------------------
 
-J. Chan, **R. J. Hewett**, and T. Warburton,
-submitted to *the SIAM Journal on Scientific Computing*.
+J. Chan, **R. J. Hewett**, and T. Warburton,  
+submitted to *the SIAM Journal on Scientific Computing*.  
 [link]
 [pdf]
 [arxiv]
@@ -22,8 +22,8 @@ submitted to *the SIAM Journal on Scientific Computing*.
 Weight Adjusted Discontinuous Galerkin Methods: Wave Propagation in Heterogeneous Media
 ---------------------------------------------------------------------------------------
 
-J. Chan, **R. J. Hewett**, and T. Warburton,
-submitted to *the SIAM Journal on Scientific Computing*.
+J. Chan, **R. J. Hewett**, and T. Warburton,  
+submitted to *the SIAM Journal on Scientific Computing*.  
 [link]
 [pdf]
 [arxiv]
