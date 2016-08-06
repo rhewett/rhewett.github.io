@@ -10,6 +10,24 @@
 2016
 ====
 
+Weight Adjusted Discontinuous Galerkin Methods: Curvilinear Meshes
+---------------------------------------------------------------------------------------
+
+J. Chan, **R. J. Hewett**, and T. Warburton,
+submitted to *the SIAM Journal on Scientific Computing*.
+[link]
+[pdf]
+[arxiv]
+
+Weight Adjusted Discontinuous Galerkin Methods: Wave Propagation in Heterogeneous Media
+---------------------------------------------------------------------------------------
+
+J. Chan, **R. J. Hewett**, and T. Warburton,
+submitted to *the SIAM Journal on Scientific Computing*.
+[link]
+[pdf]
+[arxiv]
+
 Reduced Storage Nodal Discontinuous Galerkin Methods on Semi-structured Prismatic Meshes
 ----------------------------------------------------------------------------------------
 
@@ -69,7 +87,7 @@ SunPy--Python for solar physics
 The SunPy Community, S. J. Mumford, S. Christe, D. Pérez-Suárez,  J. Ireland, A. Y. Shih, 
 A. R. Inglis, S. Liedtke, ** R. J. Hewett **, F. Mayer, K. Hughitt, N. Freij, 
 T. Meszaros, S. M. Bennett, M. Malocha, J Evans, A. Agrawal, A. J.  Leonard, T. P. Robitaille, 
-B. Mampaey, J. I. Campos-Rozo, M. S. Kirk,  
+B. Mampaey, J. I. Campos-Rozo, and M. S. Kirk,  
 *Computational Science and Discovery*, Volume 8, Issue 1, January, 2015.  
 [link]
 [pdf]

@@ -140,7 +140,11 @@ Peer Reviewed Publications
 --------------------------
 
 -  J. Chan, **R. J. Hewett**, and T. Warburton,
-   "Weight Adjusted Discontinuous Galerkin Methods: Heterogeneous Media,"
+   "Weight Adjusted Discontinuous Galerkin Methods: Curvilinear Meshes,"
+   *submitted to* the SIAM Journal on Scientific Computing.
+
+-  J. Chan, **R. J. Hewett**, and T. Warburton,
+   "Weight Adjusted Discontinuous Galerkin Methods: Wave Propagation in Heterogeneous Media,"
    *submitted to* the SIAM Journal on Scientific Computing.
 
 -  J. Chan, **R. J. Hewett**, Z. Wang, and T. Warburton,
@@ -151,26 +155,32 @@ Peer Reviewed Publications
 -  The SunPy Community, et. al., "SunPy--Python for solar physics,"
    *Computational Science and Discovery*, Volume 8, Issue 1, January,
    2015.
+
 -  **R. J. Hewett**, I. H. Jermyn, M. T. Heath, and F. Kamalabadi, "A
    Phase Field Method for Tomo-graphic Reconstruction from Limited
    Data," *Proceedings of the British Machine Vision Conference*,
    August, 2012, pp. 120.1--120.11.
+
 -  **R. J. Hewett**, M. T. Heath, M. D. Butala, and F. Kamalabadi, "A
    Robust Null Space Method for Linear Equality Constrained State
    Estimation," *IEEE Transactions on Image Processing*, 2010, Volume
    58, Issue 8, pp. 3961--3971.
+
 -  M. D. Butala, **R. J. Hewett**, R. A. Frazin, and F. Kamalabadi,
    "Dynamic Three-Dimensional Tomography of the Solar Corona," *Solar
    Physics*, 2010, Volume 262, Issue 2, pp. 495--509.
+
 -  J. Ireland, C. A. Young, R. T. J. McAteer, C. Whelan, **R. J.
    Hewett**, and P. T. Gallagher, "Multiresolution Analysis of Active
    Region Magnetic Structure and Its Correlation with the Mt. Wilson
    Classification and Flaring Activity," *Solar Physics*, 2008, Volume
    252, Issue 1, pp. 121--137.
+
 -  **R. J. Hewett**,, P. T. Gallagher, R. T. J. McAteer, C. A. Young, J.
    Ireland, P. A. Conlon, and K. Maguire, "Multiscale Analysis of
    Turbulence in Active Regions Using Wavelets," *Solar Physics*, 2010,
    Volume 248, Issue 2, pp. 297--309.
+
 -  P. A. Conlon, P. T. Gallagher, R. T. J. McAteer, J. Ireland, C. A.
    Young, P. Kestener, **R. J. Hewett**, and K. Maguire, "Multifractal
    Properties of Evolving Active Regions," *Solar Physics*, 2010, Volume
@@ -211,6 +221,7 @@ Book Chapters
    Hewett**, and P. A. Conlon, *Solar Activity Monitoring*, in *Space
    Weather: Research Towards Applications in Europe*, Ed: Jean
    Lilensten, Dordrecht, The Netherlands,  Springer, 2007.
+
 -  B. Hewett, **R. J. Hewett**, *IM Talking about Literacy: Instant
    Messaging in the Workplace*, in ** *Handbook of Research on Virtual
    Workplaces and the New Nature of Business Practices*, Eds: Kirk
@@ -222,33 +233,43 @@ Presentations
 -  Contributed Talk, "PySIT: Seismic Imaging Toolbox for Python,"
    SIAM Conference on Mathematical and Computational Issues in
    Geoscience 2015, Stanford University, Palo Alto, CA, June 2015.
+
 -  Contributed Talk, "A Polarized-Trace Solver for 2D Helmholtz and 
    Frequency Domain Full-Waveform Inversion,"  Inverse Problems:
    Theory and Applications}, Bristol, UK, August 2014.
+
 -  Contributed Talk, "Toward Tomographic Reconstruction of CMEs with a
    Phase Field Method," Solar Image Processing Workshop VI, Bozeman, MT,
    August 2012.
+
 -  Contributed Talk, "Tomographic Imaging of the Solar Corona from
    Multi-spacecraft Measurements," Goddard Space Flight Center Graduate
    Student Symposium, Greenbelt, MD, September 2010.
+
 -  Poster, "Joint Tomography and Segmentation of Coronal Mass
    Ejections," Solar Image Processing Workshop V, Les Diablerets,
    Switzerland, September 2010.
+
 -  Contributed Talk, "Computing Tomographic Projection Operators on
    Unstructured Meshes," SIAM Imaging Science 2010, Chicago, IL, April
    2010.
+
 -  Poster, "An Assimilative 3-D Model of Coronal Density from
    Multi-Spacecraft Observations," American Geophysical Union, Fall
    Meeting 2009, abstract \\#SH41B-1663, December 2009.
+
 -  Poster, "Large Scale Dynamic Reconstruction of Coronal Density and
    Temperature from Multi-spacecraft Measurements," NASA Goddard Space
    Flight Center GSRP Symposium, Greenbelt, MD, September 2009.
+
 -  Contributed Talk, "Dynamic 3D Coronal Density Reconstructions with
    Data from Multiple Observatories," Solar Image Processing Workshop
    IV, Baltimore, MD, October 2008.
+
 -  Contributed Talk, "Multiscale Analysys of Turbulence in Active
    Regions Using Wavelets," Solar Image Processing Workshop III, Dublin,
    Ireland, September 2006.
+   
 -  Poster, "Multiscale Structure of Active Region Magnetic Fields: A
    Continuous Wavelet Approach" American Astronomical Society: Solar
    Physics Division Annual Meeting, Durham, NH, June 2006.
