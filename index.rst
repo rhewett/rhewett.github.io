@@ -47,7 +47,8 @@
                         </div>
                         <div class="panel-body">
                             <div class="fluid-wrapper panel-content-wrap">
-                                <iframe src="https://www.google.com/maps/d/embed?mid=zrDmp80aDobM.k4qqjBrgs71A" width="80" height="60"></iframe>
+                                <!-- <iframe src="https://www.google.com/maps/d/embed?mid=zrDmp80aDobM.k4qqjBrgs71A" width="80" height="60"></iframe>  -->
+                                <iframe width="80" height="60" src="https://maphub.net/embed/2655" frameborder="0" allowfullscreen></iframe>
                             </div>
                             <p><a class="btn btn-default" href="http://www.russellhewett.com/bio/parks.html" role="button">Embiggen &raquo;</a></p>
                         </div>

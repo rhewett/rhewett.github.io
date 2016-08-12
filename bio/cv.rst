@@ -269,7 +269,7 @@ Presentations
 -  Contributed Talk, "Multiscale Analysys of Turbulence in Active
    Regions Using Wavelets," Solar Image Processing Workshop III, Dublin,
    Ireland, September 2006.
-   
+
 -  Poster, "Multiscale Structure of Active Region Magnetic Fields: A
    Continuous Wavelet Approach" American Astronomical Society: Solar
    Physics Division Annual Meeting, Durham, NH, June 2006.
