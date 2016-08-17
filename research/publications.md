@@ -17,7 +17,21 @@ J. Chan, **R. J. Hewett**, and T. Warburton,
 submitted to *the SIAM Journal on Scientific Computing*.  
 [link]
 [pdf]
-[arxiv]
+[[arxiv]](http://arxiv.org/abs/1608.01944)
+<a href="javascript:toggle('sisc2016b_text','sisc2016b_link');"id="sisc2016b_link">
+   [show abstract]
+</a>
+
+<div id="sisc2016b_text" style="display:none;">
+   Traditional time-domain discontinuous Galerkin (DG) methods result in large storage
+   costs at high orders of approximation due to the storage of dense elemental matrices. 
+   In this work, we propose a weight-adjusted DG (WADG) methods for curvilinear meshes 
+   which reduce storage costs while retaining energy stability. A priori error estimates 
+   show that high order accuracy is preserved under sufficient conditions on the mesh, 
+   which are illustrated through convergence tests with different sequences of meshes. 
+   Numerical and computational experiments verify the accuracy and performance of WADG 
+   for a model problem on curved domains. 
+</div>
 
 Weight Adjusted Discontinuous Galerkin Methods: Wave Propagation in Heterogeneous Media
 ---------------------------------------------------------------------------------------
@@ -26,7 +40,25 @@ J. Chan, **R. J. Hewett**, and T. Warburton,
 submitted to *the SIAM Journal on Scientific Computing*.  
 [link]
 [pdf]
-[arxiv]
+[[arxiv]](http://arxiv.org/abs/1608.01944)
+<a href="javascript:toggle('sisc2016a_text','sisc2016a_link');"id="sisc2016a_link">
+   [show abstract]
+</a>
+
+<div id="sisc2016a_text" style="display:none;">
+   Time-domain discontinuous Galerkin (DG) methods for wave propagation require 
+   accounting for the inversion of dense elemental mass matrices, where each mass 
+   matrix is computed with respect to a parameter-weighted L2 inner product. In 
+   applications where the wavespeed varies spatially at a sub-element scale, these 
+   matrices are distinct over each element, necessitating additional storage. In 
+   this work, we propose a weight-adjusted DG (WADG) method which reduces storage
+   costs by replacing the weighted L2 inner product with a weight-adjusted inner 
+   product. This equivalent inner product results in an energy stable method, but
+   does not increase storage costs for locally varying weights. A-priori error 
+   estimates are derived, and numerical examples are given illustrating the 
+   application of this method to the acoustic wave equation with heterogeneous 
+   wavespeed. 
+</div>
 
 Reduced Storage Nodal Discontinuous Galerkin Methods on Semi-structured Prismatic Meshes
 ----------------------------------------------------------------------------------------
