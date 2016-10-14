@@ -19,11 +19,13 @@
                             <h2 class="idx-subtitle">Research Interests</h2>
                             <p>
                                 <br>
-                                <strong><big>·</big></strong>Computational science and engineering in geoscience<br>
+                                <strong><big>·</big></strong>Computational science and engineering<br>
+                                <br>
+                                <strong><big>·</big></strong>High performance computing<br>
                                 <br>
                                 <strong><big>·</big></strong>Inverse problems in imaging<br>
                                 <br>
-                                <strong><big>·</big></strong>Numerical methods in photography and computer vision
+                                <strong><big>·</big></strong>Numerical methods in machine learning, photography, and computer vision
                             </p>
                         </div>
                         <div id="jumbo-right" class="col-md-6">
@@ -62,7 +64,7 @@
                             </h2>
                         </div>
                         <div class="panel-body">
-                            <p>"Reduced Storage Nodal Discontinuous Galerkin Methods on Semi-structured Prismatic Meshes."<br><i>CAMWA</i></p>
+                            <p>"Weight Adjusted Discontinuous Galerkin Methods: Wave Propagation in Heterogeneous Media."<br><i>SISC</i></p>
                             <p><a class="btn btn-default" href="http://www.russellhewett.com/research/publications.html" role="button">View details &raquo;</a></p>
                         </div>
                     </div>
