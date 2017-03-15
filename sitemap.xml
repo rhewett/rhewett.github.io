@@ -1,55 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.russellhewett.com/archive.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/bio/bio.html</loc>
-  <lastmod>2016-10-13</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/bio/cv.html</loc>
-  <lastmod>2016-08-11</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/bio/math_genealogy.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/bio/parks.html</loc>
-  <lastmod>2016-08-11</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/blog/index.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/categories/index.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/index.html</loc>
-  <lastmod>2016-10-13</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/research/publications.html</loc>
-  <lastmod>2016-08-16</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/research/seismic/index.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/research/solar_imaging/index.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.russellhewett.com/research/solar_tomography/index.html</loc>
-  <lastmod>2016-07-24</lastmod>
+  <lastmod>2017-03-15T02:41:00Z</lastmod>
  </url>
 </urlset>
