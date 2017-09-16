@@ -51,8 +51,11 @@
                             <div class="fluid-wrapper panel-content-wrap">
                                 <!-- <iframe src="https://www.google.com/maps/d/embed?mid=zrDmp80aDobM.k4qqjBrgs71A" width="80" height="60"></iframe>  -->
                                 <!-- <iframe width="80" height="60" src="https://maphub.net/embed/2655" frameborder="0" allowfullscreen></iframe> -->
-                                <style>.embed-container {position: unset; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
-                                <div class="embed-container"><iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="National Geographic Map-Park Visits" src="//www.arcgis.com/apps/Embed/index.html?webmap=12e3b9ea23da4ce9a6a24b4a6306555a&amp;extent=-128.4971,22.6261,-63.5898,52.2627&amp;zoom=falsee&amp;previewImage=false&amp;scale=false&amp;basemap_gallery=false&amp;disable_scroll=true&amp;theme=light"></iframe></div>
+                                <!-- <style>.embed-container {position: unset; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+                                <div class="embed-container"><iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="National Geographic Map-Park Visits" src="//www.arcgis.com/apps/Embed/index.html?webmap=12e3b9ea23da4ce9a6a24b4a6306555a&amp;extent=-128.4971,22.6261,-63.5898,52.2627&amp;zoom=falsee&amp;previewImage=false&amp;scale=false&amp;basemap_gallery=false&amp;disable_scroll=true&amp;theme=light"></iframe></div> -->
+                                <a href="http://www.russellhewett.com/bio/parks.html">
+                                <img class="panel-photo" src="http://www.russellhewett.com/files/rhewett_genealogy.png"></img>
+                                </a>
                             </div>
                             <p><a class="btn btn-default" href="http://www.russellhewett.com/bio/parks.html" role="button">Embiggen &raquo;</a></p>
                         </div>
